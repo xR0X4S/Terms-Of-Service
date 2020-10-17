@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "token": "token",
+    "mongoPass": "mongodb+srv://name:pass!@termsofservice.djcli.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "permissions": {
+        "owner": "659453299409420318",
+        "admin": "385737738697048064"
+    }
+}
